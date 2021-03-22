@@ -6,4 +6,4 @@ app.listen(3003, () => {
     console.log('Server running in port 3003');
 });
 
-db('mongodb://localhost/social');    
+db('mongodb+srv://ronier>:dIR3J1YOy74xwh9O@ronier.vzhca.mongodb.net/social?retryWrites=true&w=majority');    
